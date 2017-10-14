@@ -1,0 +1,88 @@
+
+
+
+h1 {
+	font-family: 'Monoton', cursive;
+	color: white;
+	font-size: 70px;
+	border-bottom: 1px solid white;
+	text-align: center;
+	margin-left: 40px;
+	margin-right: 40px;
+
+}
+
+body {
+	background: url("../images/background.jpg") fixed no-repeat;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+	
+	
+}
+
+#start-button {
+	background: none;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: white;
+	height: 60px;
+	width: 130px;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+}
+
+#answer-1 {
+	background: none;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: white;
+	height: 60px;
+	width: 200px;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+}
+
+#answer-2 {
+
+	background: none;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: white;
+	height: 60px;
+	width: 200px;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+	margin-bottom: 10px;
+
+}
+
+#answer-3 {
+
+	background: none;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: white;
+	height: 60px;
+	width: 200px;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+	margin-bottom: 10px;
+
+}
+
+#answer-4 {
+
+	background: none;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: white;
+	height: 60px;
+	width: 200px;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+
+}
